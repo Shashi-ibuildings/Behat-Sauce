@@ -1,6 +1,40 @@
 Sauce Labs Integration with Behat
 
 
+Requirement:
+
+*Behat/Mink Installed
+*Ant 
+*SauceLabs Account (Username and API Key)
+*Jenkins (optional)
+
+
+How to use?
+
+
+Clone the repository from my GitHub
+
+       $ git clone git@github.com:Shashi-ibuildings/Behat-Sauce.git
+       $ cd /path to/Behat-Sauce
+
+
+Edit ‘Sauce.yml’ file in order to specify your username and API key.
+
+
+
+
+Now, Run ANT command to execute feature on sauce Labs
+
+       $ ant runSauce
+
+Once All tests executed see the reports generated in 'report/report.html' file. 
+
+
+Use it in your project by updating 'behat.yml' and 'sauce.yml'. Change Base url to your application url. 
+Write and implement features in 'features' directory.
+
+
+
 
 
 
