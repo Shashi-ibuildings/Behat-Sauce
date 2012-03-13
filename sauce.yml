@@ -8,8 +8,8 @@ default:
         port: 80
       browser: >
           {
-            "username":         "Your Username",
-            "access-key":       "Your API Key",
+            "username":         "shashikantjagtap",
+            "access-key":       "79679a8d-5e91-4bfd-b594-588bead51b59",
             "browser":          "firefox",
             "browser-version":  "7",
             "os":               "Windows 2003",
