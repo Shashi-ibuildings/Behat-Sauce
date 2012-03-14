@@ -1,6 +1,9 @@
 Sauce Labs Integration with Behat
 
 
+Read the sauce Labs blog to setup Jenkins and get clear understanding http://saucelabs.com/blog/index.php/2012/01/adding-sauce-to-behat/
+
+
 Requirement:
 
 *Behat/Mink Installed
@@ -34,7 +37,7 @@ Use it in your project by updating 'behat.yml' and 'sauce.yml'. Change Base url 
 Write and implement features in 'features' directory.
 
 
-
+You can setup your Jenkins Continuous Integration server by following the blog post http://saucelabs.com/blog/index.php/2012/01/adding-sauce-to-behat/
 
 
 
