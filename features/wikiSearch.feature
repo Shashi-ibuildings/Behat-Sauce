@@ -14,10 +14,5 @@ Feature: wikiSearch
       | input   | output    |
       | London  | lʌndən/   |
       | NewYork | nɪu ˈjɔək |
-      | Sydney  | sɪdni/    |
-      | Mumbai  | मुंबई      |
-      | Bejing  | 北京       |
-      | Tokyo   | 東京       |
-      | Lahore  | لاہور        |
-      | Paris   | paʁi      |
+      
 
